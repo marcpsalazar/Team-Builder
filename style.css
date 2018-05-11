@@ -1,0 +1,136 @@
+
+#mc_embed_signup {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding-left: 0;
+}
+#mc_embedded_signup form {
+  padding-left: 0;
+  padding: 0;
+}
+#mc_embedded_subscribe-form {
+  padding-left: 0;
+  width: 100;
+}
+#mc_embed_signup .mc-field-group input {
+    display: block;
+    /* width: 100%; */
+    padding: 8px 0;
+    text-indent: 2%;
+}
+
+.btn-warning, .btn-primary, .btn-dark, .btn-secondary, .btn-info, .btn-link, .btn-light, .btn-danger, .btn-success {
+  background-color: darkgray;
+  color: gold;
+  border: none;
+}
+body {
+  background-image: url(./batman.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.card-img-top {
+  height: 300px;
+  width: 250px;
+}
+
+.container {
+  width: 100%;
+}
+.card {
+  position: relative;
+  left: 400px;
+  top: 100px;
+}
+h1 {
+
+  font-family: 'Fredericka the Great', cursive;
+
+  font-size: 5em;
+
+  color: white;
+}
+h3 {
+  color: white;
+  position: relative;
+  left: 400px;
+  top: 90px;
+
+}
+.card-text {
+  color: white;
+}
+p {
+
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+label {
+  color: white;
+}
+
+input {
+
+  background-color: transparent;
+
+  background-color: rgba(255, 255, 255, .075);
+
+}
+
+input[type=email] {
+
+    width: 100px;
+
+    transition: ease-in-out, width .35s ease-in-out;
+
+}
+
+input[type=email]:focus {
+
+  width: 200px;
+
+}
+
+#cta {
+
+  margin-top: 75%;
+
+}
+
+#mc_embed_signup {
+
+  font-family: 'Montserrat', sans-serif;
+
+  color: white;
+
+  padding-left: 0;
+
+}
+
+#mc_embedded_signup form {
+
+  padding-left: 0;
+
+  padding: 0;
+
+}
+
+#mc_embedded_subscribe-form {
+
+  padding-left: 0;
+
+  /* width: 100; */
+
+}
+
+#mc_embed_signup .mc-field-group input {
+
+    display: block;
+
+    padding: 8px 0;
+
+    text-indent: 2%;
+
+}
+
